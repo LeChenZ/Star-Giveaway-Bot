@@ -1,0 +1,6 @@
+{
+    "token": "token",
+    "mongoUrl": "mongodb+srv://giveaway:password@cluster0.xnosxlh.mongodb.net/?retryWrites=true&w=majority",
+    "clientId": "clientid"
+  }
+

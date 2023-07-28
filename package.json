@@ -1,0 +1,13 @@
+{
+  "name": "StarGiveawayBot",
+  "version": "1.0",
+  "description": "Bot giveaway en Djs13 avec commande slash",
+  "main": "index.js",
+  "author": "LeChenZ",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "@discordjs/builders": "^0.5.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "mongoose": "^5.12.15"
+  }
+}
